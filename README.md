@@ -1,5 +1,4 @@
-
-<h1 align="center"> Hello there. </h1>
+Hello there.
 
 
 Random Fact : the Western Lowland Gorilla has a scientific name of *Gorilla Gorilla Gorilla* 
